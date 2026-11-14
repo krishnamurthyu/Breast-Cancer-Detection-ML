@@ -143,8 +143,8 @@ Breast_Cancer_Detection/
 ### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd Breast_Cancer_Detection
+git clone https://github.com/krishnamurthyu/Breast-Cancer-Detection-ML.git
+cd Breast-Cancer-Detection-ML
 ```
 
 ### Step 2: Create a virtual environment
@@ -196,4 +196,6 @@ This project is developed for educational and experimental purposes only. Its pr
 
 ## 14. Author
 
-Add your name, academic details, and project information here.
+**Author:** U Krushnamoorthy  
+**Program:** B.Tech Computer Science and Engineering (AI & ML)  
+**University:** Alliance University
