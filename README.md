@@ -203,4 +203,4 @@ This project is developed for educational and experimental purposes only. Its pr
 ## Project Demonstration
 
 Watch the project demonstration video:
-[Click here to watch the demo](https://drive.google.com/file/d/14mZj8SnicXL2owUJ_XBMXtDD75L_SHXX/view?usp=drive_link)
+[Click here to watch the demo](https://drive.google.com/file/d/14mZj8SnicXL2owUJ_XBMxtDD75L_sHXX/view?usp=drive_link)
