@@ -1,0 +1,2 @@
+Model,Threshold,Accuracy (%),Precision (%),Recall (%),F1 Score,F2 Score,AUC-ROC,True Negatives,False Positives,False Negatives,True Positives
+Baseline SVM,0.23,96.49,93.18,97.62,0.9535,0.967,0.9947,69,3,1,41
